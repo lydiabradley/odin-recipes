@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+    display: table;
+}
+
+a {
+    color: #000094;
+}
+
+h1 {
+    margin-bottom: 1em;
+    font-size: 3.5em;
+}
+
+li, ol {
+    margin-left: auto;
+    margin-left: -2em;
+    margin-bottom: 1em;
+    text-align: left;
+    list-style-position: inside; /* centers list bullet points */
+}
